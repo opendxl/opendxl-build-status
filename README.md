@@ -76,7 +76,7 @@ This purpose of this repository is to provide a single place to see the status o
 [![Actions Status](https://github.com/opendxl/opendxl-epo-client-javascript/workflows/Build/badge.svg)](https://github.com/opendxl/opendxl-epo-client-javascript/actions) opendxl-epo-client-javascript
 
 
-## Node-red
+## Node-RED
 
 [![Actions Status](https://github.com/opendxl/node-red-contrib-dxl/workflows/Build/badge.svg)](https://github.com/opendxl/node-red-contrib-dxl/actions) node-red-contrib-dxl
 
