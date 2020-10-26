@@ -51,6 +51,8 @@ This purpose of this repository is to provide a single place to see the status o
 
 ## OpenDXL Client Wrappers
 
+[![Actions Status](https://github.com/opendxl/opendxl-openc2-client-python/workflows/Build/badge.svg)](https://github.com/opendxl/opendxl-openc2-client-python/actions) opendxl-openc2-client-python
+
 [![Actions Status](https://github.com/opendxl/opendxl-tie-client-python/workflows/Build/badge.svg)](https://github.com/opendxl/opendxl-tie-client-python/actions) opendxl-tie-client-python
 
 [![Actions Status](https://github.com/opendxl/opendxl-mar-client-python/workflows/Build/badge.svg)](https://github.com/opendxl/opendxl-mar-client-python/actions) opendxl-mar-client-python
